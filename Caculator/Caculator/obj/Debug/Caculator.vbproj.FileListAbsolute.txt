@@ -1,0 +1,12 @@
+C:\Users\jbr\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\jbr\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\jbr\Desktop\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\jbr\Desktop\Caculator\Caculator\bin\Debug\Caculator.xml
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.vbprojAssemblyReference.cache
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.Resources.resources
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.vbproj.GenerateResource.cache
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.vbproj.CoreCompileInputs.cache
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.xml
+C:\Users\jbr\Desktop\Caculator\Caculator\obj\Debug\Caculator.pdb
